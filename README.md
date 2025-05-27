@@ -27,7 +27,7 @@ In this project, we used a small customer dataset to build and visualize custome
 
 ## Tech Stack
 
-- Python 🐍
+- Python
 - pandas
 - matplotlib
 - scikit-learn
